@@ -7,6 +7,7 @@
 From your terminal:
 
 ```sh
+cd personal_blog
 npm run dev
 ```
 
