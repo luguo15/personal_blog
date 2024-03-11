@@ -12,7 +12,7 @@ import './assets/css/responsive.css';
 const Aboutme = () => {
     return (
         // {/*about start */}
-        <div id="about" className="about">
+        <section id="about" className="about">
             <div className="section-heading text-center">
                 <h2>about me</h2>
             </div>
@@ -98,7 +98,7 @@ const Aboutme = () => {
                     </div>
                 </div>
             </div>
-        </div>
+        </section>
     );
 }
 

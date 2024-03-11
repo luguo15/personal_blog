@@ -12,7 +12,7 @@ import './assets/css/responsive.css';
 
 const Education = () => {
     return (
-        <div id="education" className="education">
+        <section id="education" className="education">
             <div className="section-heading text-center">
                 <h2>education</h2>
             </div>
@@ -111,7 +111,7 @@ const Education = () => {
                     </div>
                 </div>
             </div>
-        </div> // education end
+        </section> // education end
     );
 }
 

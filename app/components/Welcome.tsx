@@ -12,7 +12,7 @@ import './assets/css/responsive.css';
 const Welcome = () => {
     /* /.welcome-hero */
     return (
-        <div id="welcome" className="welcome-hero">
+        <section id="welcome" className="welcome-hero">
             <div className="container">
                 <div className="row">
                     <div className="col-md-12 text-center">
@@ -24,7 +24,7 @@ const Welcome = () => {
                     </div>{/* /.col */}
                 </div>{/* /.row */}
             </div>{/* /.container */}
-        </div> // welcome-hero end
+        </section> // welcome-hero end
     );
 }
 

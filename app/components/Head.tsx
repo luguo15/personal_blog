@@ -23,7 +23,7 @@ const Head = () => {
     };
 
     return (
-        <div className="header-area">
+        <section className="header-area">
             {/* Start Navigation */}
             <nav className="navbar navbar-default bootsnav navbar-fixed dark no-background">
 
@@ -60,7 +60,7 @@ const Head = () => {
             </nav>
             {/*/nav*/}
             {/* End Navigation */}
-        </div> // header-area end
+        </section> // header-area end
     );
 }
 
